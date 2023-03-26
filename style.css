@@ -1,0 +1,14 @@
+.canecas {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.fotos-canecas img{
+    height: 20px;
+    width: 20px;
+    background-color: #ccc;
+    margin: 0 10px;
+}
